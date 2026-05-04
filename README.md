@@ -1,28 +1,26 @@
 # Hey, I'm Tenzin 👋
-
 **Full Stack Developer → AI/GenAI | RAG Systems · LLM Integration · AI Applications**
 
-4 years building enterprise platforms at Tecnotree. Now shipping AI-powered tools with RAG, vector search, and agentic workflows — from browser extensions to trading bots.
+4+ years building enterprise platforms at Tecnotree. Now shipping AI-native tools with RAG, vector search, and LLM integration — from browser extensions to full-stack SaaS.
 
 ---
 
 ### 🚀 What I Build
-
 - **AI Applications** → RAG pipelines, LLM integration, vector search, agentic systems
 - **Full Stack Products** → React, Next.js, TypeScript, Python/FastAPI, PostgreSQL
-- **Chrome Extensions** → Manifest V3, side panels, background workers
+- **Chrome Extensions** → Manifest V3, background workers, side panels
 
 ---
 
 ### 🏆 Flagship Project
 
-**[DeepTrail](https://chromewebstore.google.com/detail/deeptrail/gbfhehbnondmcbjfbakjopooknchcglg)** — AI-Powered Research Knowledge Graph
+**[AskMyDocs](https://tenzinthinlay.netlify.app)** — Full Stack RAG Document Q&A SaaS
 
-A Chrome Extension that turns browsing into a searchable knowledge graph.
+Upload PDFs, ask questions, get grounded answers — powered by a production RAG pipeline.
 
-- Content extraction → Gemini embeddings (768-dim) → pgvector cosine similarity → Groq/Llama 3 synthesis
-- React 18 + FastAPI + PostgreSQL + Neon.tech + Render
-- **Live on the Chrome Web Store**
+- PDF ingestion → Gemini embeddings (768-dim) → pgvector cosine similarity → Gemini LLM synthesis
+- Next.js 15 · FastAPI · PostgreSQL + pgvector · AWS S3 · AWS EC2 · Docker · JWT · Neon.tech
+- **Live on Vercel + AWS EC2**
 
 ---
 
@@ -30,9 +28,8 @@ A Chrome Extension that turns browsing into a searchable knowledge graph.
 
 | Project | What it does | Stack |
 |---------|-------------|-------|
-| **SigmaTrader** | BTC/USDT algorithmic trading bot (RSI mean reversion, 314 trades backtested) | Python, FastAPI, Next.js, Binance API |
-| **Lumen AI** | Real-time webpage analysis via LLM | Chrome MV3, Groq/Llama 3.1 |
-| **Autonomous Bounty Hunter** | ReAct-style AI security agent | Python, Semgrep, Llama 3/4, Solidity |
+| **[DeepTrail](https://chromewebstore.google.com/detail/deeptrail/gbfhehbnondmcbjfbakjopooknchcglg)** | AI research knowledge graph from browser activity | Chrome MV3, React 18, FastAPI, pgvector, Groq/Llama 3, React Flow |
+| **Lumen AI** | Real-time webpage analysis via LLM with BYOK privacy | Chrome MV3, JavaScript, Groq/Llama 3.1 |
 
 ---
 
