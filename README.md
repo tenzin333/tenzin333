@@ -14,7 +14,7 @@
 
 ### 🏆 Flagship Project
 
-**[AskMyDocs](https://tenzinthinlay.netlify.app)** — Full Stack RAG Document Q&A SaaS
+**[AskMyDocs](https://askmydocss.vercel.app)** — Full Stack RAG Document Q&A SaaS
 
 Upload PDFs, ask questions, get grounded answers — powered by a production RAG pipeline.
 
